@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pruthu-vi
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Statistics, Machine Learning, AI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pruthuviiskak@gmail.com 😉
 
 <!---
