@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pruthu-vi
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Statistics, Machine Learning, AI
-- 📫 How to reach me pruthuviiskak@gmail.com 😉
 
 <!---
 pruthu-vi/pruthu-vi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
